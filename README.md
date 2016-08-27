@@ -3,6 +3,17 @@ My Zend Garden
 
 This is a css lab for MKF
 
+The step to begin:
+
+
+```
+git clone https://github.com/MKFMIKU/CssZend.git
+cd CssZend
+npm install 
+
+```
+
+
 ```
 MIT License
 

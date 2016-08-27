@@ -1,0 +1,9 @@
+{
+  "name": "zend",
+  "version": "1.0.0",
+  "description": "My Zend Garden",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1"
+  }
+}
