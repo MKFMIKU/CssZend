@@ -6,8 +6,8 @@ var reload      = browserSync.reload;
 gulp.task('server', function () {
     browserSync.init({
         server: {
-            baseDir: "./public"
+            baseDir: "./"
         }
     });
-    gulp.watch("./public/css/*.css").on("change", reload);
+    gulp.watch("./public/*.css").on("change", reload);
 });

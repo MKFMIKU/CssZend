@@ -1,18 +1,16 @@
 # CssZend
 My Zend Garden
 
-This is a css lab for MKF
+This is a css lab for MKF😀
 
 The step to begin:
 
-
-```
+```bash
 git clone https://github.com/MKFMIKU/CssZend.git
 cd CssZend
 npm install 
-
+gulp server
 ```
-
 
 ```
 MIT License
